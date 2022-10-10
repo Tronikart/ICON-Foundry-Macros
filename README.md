@@ -1,4 +1,6 @@
-# ICON-Foundry-Macros
+# ICON Foundry Macros
+
+
 
 ## Requirements
 * [Sequencer](https://foundryvtt.com/packages/sequencer)
