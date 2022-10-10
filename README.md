@@ -7,4 +7,4 @@
 ![Astral CHain](/media/Astral%20Chain.mp4)
 
 
-![](https://github.com/Tronikart/ICON-Foundry-Macros/blob/main/media/Astral%20Chain.mp4?raw=true)
+https://raw.githubusercontent.com/Tronikart/ICON-Foundry-Macros/main/media/Sanctify.mp4
