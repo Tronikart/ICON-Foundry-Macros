@@ -12,7 +12,7 @@
 
 These are macros, you just have to make sure the macro is marked as "script" instead of "chat"
 
-### [sanctify.js](https://github.com/Tronikart/ICON-Foundry-Macros/blob/main/macros/sanctify.js)
+### [sanctify.js](https://github.com/Tronikart/ICON-Foundry-Macros/blob/main/macros/sanctify.js) - Uses warpgate
 https://user-images.githubusercontent.com/14989643/194947538-88815fdb-d0b9-4e53-8775-22794adbc022.mp4
 
 
