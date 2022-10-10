@@ -5,6 +5,7 @@
 ## Requirements
 * [Sequencer](https://foundryvtt.com/packages/sequencer)
 * [JB2A](https://jb2a.com/) (I'm using their Patreon version but I'm sure there are some alternatives on the free version)
+* [Warpgate](https://foundryvtt.com/packages/warpgate) (not used on every macro but still a great addition)
 
 
 ## Sequencer Macros
