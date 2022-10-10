@@ -1,4 +1,4 @@
-// Modules needed: Sequencer and JB2A, you can replace these 3 variables with the location of other assets, some refining may
+// Modules needed: Sequencer warpgate, and JB2A, you can replace these 3 variables with the location of other assets, some refining may
 // be needed, play around with scales
 
 var circle = "jb2a.detect_magic.circle.green";
