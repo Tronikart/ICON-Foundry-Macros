@@ -8,9 +8,13 @@
 * [Warpgate](https://foundryvtt.com/packages/warpgate) (not used on every macro but still a great addition)
 * [Token Magic FX](https://foundryvtt.com/packages/tokenmagic) (same as warpgate)
 
-## Sequencer Macros
+## How to use these macros
 
-These are macros, you just have to make sure the macro is marked as "script" instead of "chat"
+These are macros, you just have to make sure the macro is marked as "script" instead of "chat".
+
+However, you are welcomed to tear them appart, mix and match, butcher them into smaller or bigger pieces to fit your needs, thats how these were born in the first place! Most of these Mods have compendiums with examples, use those to quickly get something usable, and if you have something you want included, go ahead and ping me on the icon-resources channel on [Pilot NET](https://discord.gg/b8g49Bqf)!
+
+## Sequencer Macros
 
 ### [Sanctify](https://github.com/Tronikart/ICON-Foundry-Macros/blob/main/macros/sanctify.js) - Uses warpgate
 https://user-images.githubusercontent.com/14989643/194947538-88815fdb-d0b9-4e53-8775-22794adbc022.mp4
@@ -28,6 +32,13 @@ https://user-images.githubusercontent.com/14989643/194953029-cea9fc7d-5e6d-4e95-
 
 ### [Summon Astral Seraph](https://github.com/Tronikart/ICON-Foundry-Macros/blob/main/macros/astral_seraph.js) - Animation done with TokenMagicFX
 https://user-images.githubusercontent.com/14989643/194953133-74693d29-88a5-4208-9916-c1ddafacb4c2.mp4
+
+## TokenMagicFX
+
+These are just in case you liked something you saw on another section
+
+### [Phasing](https://github.com/Tronikart/ICON-Foundry-Macros/blob/main/macros/phasing_fx.js)
+https://user-images.githubusercontent.com/14989643/194954273-7fa091ed-3afd-4ccb-9fbf-1158cd72f6d9.mp4
 
 
 
