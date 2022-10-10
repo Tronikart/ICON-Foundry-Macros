@@ -1,10 +1,22 @@
 # ICON-Foundry-Macros
 
-![Sanctify](/media/Sanctify.mp4)
-
-![Hatred of X](/media/Hatred%20of%20X.mp4)
-
-![Astral CHain](/media/Astral%20Chain.mp4)
+## Requirements
+* [Sequencer](https://foundryvtt.com/packages/sequencer)
+* [JB2A](https://jb2a.com/) (I'm using their Patreon version but I'm sure there are some alternatives on the free version)
 
 
-https://raw.githubusercontent.com/Tronikart/ICON-Foundry-Macros/main/media/Sanctify.mp4
+## Sequencer Macros
+
+These are macros, you just have to make sure the macro is marked as "script" instead of "chat"
+
+### sanctify.js
+https://user-images.githubusercontent.com/14989643/194947538-88815fdb-d0b9-4e53-8775-22794adbc022.mp4
+
+
+### hatred of x.js
+https://user-images.githubusercontent.com/14989643/194947588-ea58037c-bb6b-4ede-bf48-f930080a1537.mp4
+
+
+### astral chain.js
+https://user-images.githubusercontent.com/14989643/194947596-984f44ee-a8b6-45a0-b31b-24d8345cc652.mp4
+
