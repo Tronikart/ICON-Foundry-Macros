@@ -3,7 +3,7 @@
 
 var circle = "jb2a.detect_magic.circle.green";
 var runes = "jb2a.template_square.symbol.normal.runes.green02";
-var square = "media/50p-white.png"; // this is just a 50x50 px white square that has been on my foundry since forever, will include on the images folder here
+var square = "media/50p-white.png"; // this is just a 50x50 px white square that has been on my foundry since forever, will include on the media folder here
 
 let position = await warpgate.crosshairs.show({
     size: 1,
