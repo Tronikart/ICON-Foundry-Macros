@@ -15,6 +15,8 @@ await Sequencer.Preloader.preloadForClients([
 
 
 let targets = Array.from(game.user.targets);
+// remove the two slashes on the line bellow if you want to randomize the order of the targets, if not, it'll go through them as you selected them
+// let targets = targets.sort((a, b) => 0.5 - Math.random());
 let sequence = new Sequence(); 
 
 sequence.effect().file(token_effect)
